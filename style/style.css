@@ -122,15 +122,6 @@ body {
   height: auto;
 }
 
-.six .hat {
-  position: absolute;
-  width: 80px;
-  top: -60px;
-  left: 40%;
-  /* 等比例扩大图片到2倍 */
-  transform: scale(1.1);
-}
-
 .baloons img {
   display: inline-block;
   position: absolute;
